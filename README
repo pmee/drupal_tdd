@@ -7,4 +7,6 @@ http://patshaughnessy.net/drupal-test-database
 
 As of the current release you can use phpunit_setup.inc in Drupal 5 and 6.
 
+test
+
 Copyright (c) 2009 [Patrick Shaughnessy, Mark Bennett], released under the MIT license
